@@ -1,0 +1,7 @@
+verilog work "ipcore_dir/Clock50.v"
+verilog work "encoder8_3.v"
+verilog work "vga_800x600.v"
+verilog work "debouncer.v"
+verilog work "connect4.v"
+verilog work "clock.v"
+verilog work "nexys3.v"
